@@ -1,6 +1,6 @@
 {
   "name": "masticator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CSS File loader for DOM",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
- "repository": {
+  "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/catpea/masticator.git"
   },
